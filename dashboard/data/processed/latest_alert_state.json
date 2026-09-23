@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-29T15:56:16.694319",
+  "latest_measured_subsidence_mm": -108.18,
+  "current_velocity_mm_per_day": 2.401,
+  "predicted_collapse_date": null,
+  "days_to_critical": null,
+  "risk_level": "WARNING_ACCELERATED_SUBSIDENCE",
+  "recommendation": "WARNING: Increased deformation velocity (2.40 mm/day). Ground drop at -108.2 mm."
+}

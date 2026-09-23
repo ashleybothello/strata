@@ -1,0 +1,7 @@
+{
+    "validation_type": "80/20 Temporal Holdout (Real InSAR)",
+    "train_epochs": 8,
+    "test_epochs": 2,
+    "rmse_mm": 4.91,
+    "mae_mm": 4.76
+}

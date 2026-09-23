@@ -1,0 +1,1502 @@
+[
+  {
+    "timestamp": "2026-08-29T23:51:41.160411",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.12,
+    "roll_deg": 0.22,
+    "vibration_g": 2.55,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:45.201634",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.45,
+    "roll_deg": 0.09,
+    "vibration_g": 0.07,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:45.240436",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.33,
+    "roll_deg": 0.21,
+    "vibration_g": 0.16,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:45.302375",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.1,
+    "roll_deg": 0.21,
+    "vibration_g": 1.62,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:49.355121",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.19,
+    "roll_deg": 0.09,
+    "vibration_g": 0.14,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:49.394896",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.12,
+    "roll_deg": 0.11,
+    "vibration_g": 0.12,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:49.436400",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.73,
+    "roll_deg": 0.11,
+    "vibration_g": 2.54,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:53.482317",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.18,
+    "roll_deg": 0.2,
+    "vibration_g": 0.11,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:53.518108",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.44,
+    "roll_deg": 0.02,
+    "vibration_g": 0.08,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:53.561038",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.21,
+    "roll_deg": 0.18,
+    "vibration_g": 2.21,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:57.606480",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.24,
+    "roll_deg": 0.19,
+    "vibration_g": 0.1,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:57.653261",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.16,
+    "roll_deg": 0.15,
+    "vibration_g": 0.07,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:51:57.694427",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.48,
+    "roll_deg": 0.11,
+    "vibration_g": 1.71,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:01.735708",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.07,
+    "roll_deg": 0.1,
+    "vibration_g": 0.12,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:01.770439",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.29,
+    "roll_deg": 0.09,
+    "vibration_g": 0.12,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:01.812193",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 2.98,
+    "roll_deg": 0.04,
+    "vibration_g": 2.62,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:05.853635",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.06,
+    "roll_deg": 0.13,
+    "vibration_g": 0.03,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:05.894646",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.39,
+    "roll_deg": 0.29,
+    "vibration_g": 0.19,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:05.936559",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.17,
+    "roll_deg": 0.27,
+    "vibration_g": 2.86,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:09.981024",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.1,
+    "roll_deg": 0.29,
+    "vibration_g": 0.16,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:10.022060",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.42,
+    "roll_deg": 0.07,
+    "vibration_g": 0.19,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:10.086812",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.76,
+    "roll_deg": 0.16,
+    "vibration_g": 2.29,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:14.156829",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.27,
+    "roll_deg": 0.04,
+    "vibration_g": 0.15,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:14.198472",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.28,
+    "roll_deg": 0.09,
+    "vibration_g": 0.15,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:14.253872",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.12,
+    "roll_deg": 0.27,
+    "vibration_g": 2.32,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:18.299548",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.36,
+    "roll_deg": 0.18,
+    "vibration_g": 0.19,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:18.336013",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.39,
+    "roll_deg": 0.29,
+    "vibration_g": 0.2,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:18.375457",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.77,
+    "roll_deg": 0.2,
+    "vibration_g": 1.81,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:22.416316",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.33,
+    "roll_deg": 0.3,
+    "vibration_g": 0.18,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:22.458071",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.36,
+    "roll_deg": 0.07,
+    "vibration_g": 0.15,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:22.496302",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.73,
+    "roll_deg": 0.25,
+    "vibration_g": 1.61,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:26.536331",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.3,
+    "roll_deg": 0.12,
+    "vibration_g": 0.2,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:26.581027",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.22,
+    "roll_deg": 0.29,
+    "vibration_g": 0.12,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:26.620842",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.2,
+    "roll_deg": 0.29,
+    "vibration_g": 1.63,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:30.663599",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.37,
+    "roll_deg": 0.26,
+    "vibration_g": 0.18,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:30.701898",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.16,
+    "roll_deg": 0.1,
+    "vibration_g": 0.16,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:30.745075",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.36,
+    "roll_deg": 0.12,
+    "vibration_g": 2.34,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:34.786704",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.09,
+    "roll_deg": 0.11,
+    "vibration_g": 0.1,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:34.825638",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.42,
+    "roll_deg": 0.21,
+    "vibration_g": 0.15,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:34.890734",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.32,
+    "roll_deg": 0.13,
+    "vibration_g": 2.02,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:38.950968",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.17,
+    "roll_deg": 0.2,
+    "vibration_g": 0.13,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:38.995443",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.16,
+    "roll_deg": 0.23,
+    "vibration_g": 0.12,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:39.039652",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.09,
+    "roll_deg": 0.19,
+    "vibration_g": 2.05,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:43.089338",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.34,
+    "roll_deg": 0.11,
+    "vibration_g": 0.15,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:43.127495",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.28,
+    "roll_deg": 0.22,
+    "vibration_g": 0.06,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:43.166350",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.24,
+    "roll_deg": 0.18,
+    "vibration_g": 2.79,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:47.207281",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.07,
+    "roll_deg": 0.16,
+    "vibration_g": 0.17,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:47.241791",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.35,
+    "roll_deg": 0.04,
+    "vibration_g": 0.19,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:47.281740",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 2.83,
+    "roll_deg": 0.25,
+    "vibration_g": 2.86,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:51.325904",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.22,
+    "roll_deg": 0.19,
+    "vibration_g": 0.06,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:51.372150",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.2,
+    "roll_deg": 0.3,
+    "vibration_g": 0.07,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:51.413691",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 2.84,
+    "roll_deg": 0.11,
+    "vibration_g": 2.85,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:55.453553",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.05,
+    "roll_deg": 0.21,
+    "vibration_g": 0.2,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:55.492376",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.39,
+    "roll_deg": 0.29,
+    "vibration_g": 0.12,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:55.537258",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.41,
+    "roll_deg": 0.14,
+    "vibration_g": 2.91,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:59.579897",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.34,
+    "roll_deg": 0.08,
+    "vibration_g": 0.17,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:59.631294",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.34,
+    "roll_deg": 0.07,
+    "vibration_g": 0.09,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:52:59.697843",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.53,
+    "roll_deg": 0.02,
+    "vibration_g": 2.46,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:03.763057",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.24,
+    "roll_deg": 0.09,
+    "vibration_g": 0.14,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:03.797249",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.39,
+    "roll_deg": 0.26,
+    "vibration_g": 0.15,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:03.834409",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 2.85,
+    "roll_deg": 0.15,
+    "vibration_g": 2.77,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:07.879420",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.11,
+    "roll_deg": 0.19,
+    "vibration_g": 0.07,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:07.919972",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.21,
+    "roll_deg": 0.14,
+    "vibration_g": 0.19,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:07.962999",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 2.91,
+    "roll_deg": 0.02,
+    "vibration_g": 2.24,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "WARNING",
+      "color": "orange"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:12.011935",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.32,
+    "roll_deg": 0.09,
+    "vibration_g": 0.03,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:12.052312",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.14,
+    "roll_deg": 0.19,
+    "vibration_g": 0.09,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:12.097755",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.1,
+    "roll_deg": 0.26,
+    "vibration_g": 2.4,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:16.133974",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.29,
+    "roll_deg": 0.26,
+    "vibration_g": 0.18,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:16.166457",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.17,
+    "roll_deg": 0.08,
+    "vibration_g": 0.16,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:16.210068",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.33,
+    "roll_deg": 0.13,
+    "vibration_g": 2.09,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:20.252099",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.16,
+    "roll_deg": 0.18,
+    "vibration_g": 0.18,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:20.294567",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.23,
+    "roll_deg": 0.08,
+    "vibration_g": 0.12,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:20.334892",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.65,
+    "roll_deg": 0.28,
+    "vibration_g": 2.46,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:24.384777",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.33,
+    "roll_deg": 0.25,
+    "vibration_g": 0.02,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:24.425272",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.06,
+    "roll_deg": 0.16,
+    "vibration_g": 0.03,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:24.485498",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.23,
+    "roll_deg": 0.13,
+    "vibration_g": 2.48,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:28.539250",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.41,
+    "roll_deg": 0.22,
+    "vibration_g": 0.14,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:28.572085",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.17,
+    "roll_deg": 0.11,
+    "vibration_g": 0.08,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:28.612245",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.21,
+    "roll_deg": 0.07,
+    "vibration_g": 2.78,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:32.654601",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.21,
+    "roll_deg": 0.17,
+    "vibration_g": 0.12,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:32.695522",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.21,
+    "roll_deg": 0.16,
+    "vibration_g": 0.16,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:32.741993",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.5,
+    "roll_deg": 0.16,
+    "vibration_g": 1.92,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:36.784365",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.09,
+    "roll_deg": 0.11,
+    "vibration_g": 0.07,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:36.823110",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.12,
+    "roll_deg": 0.03,
+    "vibration_g": 0.12,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:36.862340",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.58,
+    "roll_deg": 0.15,
+    "vibration_g": 2.37,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:40.908585",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.08,
+    "roll_deg": 0.21,
+    "vibration_g": 0.14,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:40.947008",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.16,
+    "roll_deg": 0.25,
+    "vibration_g": 0.15,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:40.989786",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 2.82,
+    "roll_deg": 0.2,
+    "vibration_g": 1.82,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "WARNING",
+      "color": "orange"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:45.041065",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.4,
+    "roll_deg": 0.02,
+    "vibration_g": 0.18,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:45.080581",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.07,
+    "roll_deg": 0.2,
+    "vibration_g": 0.17,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:45.122305",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.58,
+    "roll_deg": 0.08,
+    "vibration_g": 1.62,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:49.170392",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.31,
+    "roll_deg": 0.16,
+    "vibration_g": 0.2,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:49.209738",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.44,
+    "roll_deg": 0.21,
+    "vibration_g": 0.1,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:49.255302",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.54,
+    "roll_deg": 0.1,
+    "vibration_g": 2.05,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:53.298376",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.33,
+    "roll_deg": 0.2,
+    "vibration_g": 0.19,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:53.341940",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.37,
+    "roll_deg": 0.13,
+    "vibration_g": 0.19,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:53.385438",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.51,
+    "roll_deg": 0.28,
+    "vibration_g": 1.71,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:57.429495",
+    "node_id": "ESP32-Node-01 (Gateway)",
+    "latitude": 23.754,
+    "longitude": 86.418,
+    "pitch_deg": 0.38,
+    "roll_deg": 0.09,
+    "vibration_g": 0.13,
+    "hop_count": 0,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:57.476999",
+    "node_id": "ESP32-Node-02 (Relay)",
+    "latitude": 23.7505,
+    "longitude": 86.422,
+    "pitch_deg": 0.25,
+    "roll_deg": 0.08,
+    "vibration_g": 0.18,
+    "hop_count": 1,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "NORMAL",
+      "color": "green"
+    }
+  },
+  {
+    "timestamp": "2026-08-29T23:53:57.517104",
+    "node_id": "ESP32-Node-03 (Edge)",
+    "latitude": 23.7475,
+    "longitude": 86.4245,
+    "pitch_deg": 3.48,
+    "roll_deg": 0.14,
+    "vibration_g": 2.75,
+    "hop_count": 2,
+    "battery_v": 3.95,
+    "risk_assessment": {
+      "status": "CRITICAL",
+      "color": "red"
+    }
+  }
+]

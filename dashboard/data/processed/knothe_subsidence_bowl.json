@@ -1,0 +1,498 @@
+{
+  "panel_id": "Jharia-Panel-04",
+  "mining_depth_H_meters": 180.0,
+  "fitted_parameters": {
+    "W_max_mm": 115.0,
+    "radius_of_influence_R_m": 110.3,
+    "angle_of_draw_deg": 58.5,
+    "model_rmse_mm": 2.84
+  },
+  "infrastructure_impact": {
+    "critical_road_segment": "Sabji Patti Road (South Panel Margin)",
+    "estimated_impact_days": 38,
+    "affected_structures_count": 14,
+    "hazard_summary": "Tensile crack zone (\u03b5 \u2265 1.8 mm/m) intersects Sabji Patti Road within 38 days at current 2.4 mm/day velocity."
+  },
+  "spatial_grid": [
+    {
+      "lat": 23.74245,
+      "lon": 86.42468,
+      "subsidence_mm": -0.57,
+      "tensile_strain_mm_m": 0.106,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.3
+    },
+    {
+      "lat": 23.74245,
+      "lon": 86.42501,
+      "subsidence_mm": -1.79,
+      "tensile_strain_mm_m": 0.131,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.151
+    },
+    {
+      "lat": 23.74245,
+      "lon": 86.42534,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.034,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74245,
+      "lon": 86.42566,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.109,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74245,
+      "lon": 86.42599,
+      "subsidence_mm": -1.79,
+      "tensile_strain_mm_m": 0.137,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.151
+    },
+    {
+      "lat": 23.74245,
+      "lon": 86.42632,
+      "subsidence_mm": -0.57,
+      "tensile_strain_mm_m": 0.068,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.3
+    },
+    {
+      "lat": 23.74275,
+      "lon": 86.42436,
+      "subsidence_mm": -0.57,
+      "tensile_strain_mm_m": 0.17,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.3
+    },
+    {
+      "lat": 23.74275,
+      "lon": 86.42468,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.37,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74275,
+      "lon": 86.42501,
+      "subsidence_mm": -10.04,
+      "tensile_strain_mm_m": 0.39,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.881
+    },
+    {
+      "lat": 23.74275,
+      "lon": 86.42534,
+      "subsidence_mm": -17.81,
+      "tensile_strain_mm_m": 0.007,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.77
+    },
+    {
+      "lat": 23.74275,
+      "lon": 86.42566,
+      "subsidence_mm": -17.81,
+      "tensile_strain_mm_m": 0.425,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.77
+    },
+    {
+      "lat": 23.74275,
+      "lon": 86.42599,
+      "subsidence_mm": -10.04,
+      "tensile_strain_mm_m": 0.422,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.881
+    },
+    {
+      "lat": 23.74275,
+      "lon": 86.42632,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.155,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74275,
+      "lon": 86.42664,
+      "subsidence_mm": -0.57,
+      "tensile_strain_mm_m": 0.004,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.3
+    },
+    {
+      "lat": 23.74305,
+      "lon": 86.42436,
+      "subsidence_mm": -1.79,
+      "tensile_strain_mm_m": 0.396,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.151
+    },
+    {
+      "lat": 23.74305,
+      "lon": 86.42468,
+      "subsidence_mm": -10.04,
+      "tensile_strain_mm_m": 0.745,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.881
+    },
+    {
+      "lat": 23.74305,
+      "lon": 86.42501,
+      "subsidence_mm": -31.62,
+      "tensile_strain_mm_m": 0.578,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.641
+    },
+    {
+      "lat": 23.74305,
+      "lon": 86.42534,
+      "subsidence_mm": -56.13,
+      "tensile_strain_mm_m": 0.326,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.478
+    },
+    {
+      "lat": 23.74305,
+      "lon": 86.42566,
+      "subsidence_mm": -56.13,
+      "tensile_strain_mm_m": 0.993,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.478
+    },
+    {
+      "lat": 23.74305,
+      "lon": 86.42599,
+      "subsidence_mm": -31.62,
+      "tensile_strain_mm_m": 0.677,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.641
+    },
+    {
+      "lat": 23.74305,
+      "lon": 86.42632,
+      "subsidence_mm": -10.04,
+      "tensile_strain_mm_m": 0.068,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.881
+    },
+    {
+      "lat": 23.74305,
+      "lon": 86.42664,
+      "subsidence_mm": -1.79,
+      "tensile_strain_mm_m": 0.128,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.151
+    },
+    {
+      "lat": 23.74335,
+      "lon": 86.42436,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.536,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74335,
+      "lon": 86.42468,
+      "subsidence_mm": -17.81,
+      "tensile_strain_mm_m": 0.817,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.77
+    },
+    {
+      "lat": 23.74335,
+      "lon": 86.42501,
+      "subsidence_mm": -56.13,
+      "tensile_strain_mm_m": 0.246,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.478
+    },
+    {
+      "lat": 23.74335,
+      "lon": 86.42534,
+      "subsidence_mm": -99.63,
+      "tensile_strain_mm_m": 0.993,
+      "hazard_zone": "CRITICAL_TENSILE_CRACK",
+      "radius_ratio": 0.214
+    },
+    {
+      "lat": 23.74335,
+      "lon": 86.42566,
+      "subsidence_mm": -99.63,
+      "tensile_strain_mm_m": 1.348,
+      "hazard_zone": "CRITICAL_TENSILE_CRACK",
+      "radius_ratio": 0.214
+    },
+    {
+      "lat": 23.74335,
+      "lon": 86.42599,
+      "subsidence_mm": -56.13,
+      "tensile_strain_mm_m": 0.422,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.478
+    },
+    {
+      "lat": 23.74335,
+      "lon": 86.42632,
+      "subsidence_mm": -17.81,
+      "tensile_strain_mm_m": 0.385,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.77
+    },
+    {
+      "lat": 23.74335,
+      "lon": 86.42664,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.394,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74365,
+      "lon": 86.42436,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.394,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74365,
+      "lon": 86.42468,
+      "subsidence_mm": -17.81,
+      "tensile_strain_mm_m": 0.385,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.77
+    },
+    {
+      "lat": 23.74365,
+      "lon": 86.42501,
+      "subsidence_mm": -56.13,
+      "tensile_strain_mm_m": 0.422,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.478
+    },
+    {
+      "lat": 23.74365,
+      "lon": 86.42534,
+      "subsidence_mm": -99.63,
+      "tensile_strain_mm_m": 1.348,
+      "hazard_zone": "CRITICAL_TENSILE_CRACK",
+      "radius_ratio": 0.214
+    },
+    {
+      "lat": 23.74365,
+      "lon": 86.42566,
+      "subsidence_mm": -99.63,
+      "tensile_strain_mm_m": 0.993,
+      "hazard_zone": "CRITICAL_TENSILE_CRACK",
+      "radius_ratio": 0.214
+    },
+    {
+      "lat": 23.74365,
+      "lon": 86.42599,
+      "subsidence_mm": -56.13,
+      "tensile_strain_mm_m": 0.246,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.478
+    },
+    {
+      "lat": 23.74365,
+      "lon": 86.42632,
+      "subsidence_mm": -17.81,
+      "tensile_strain_mm_m": 0.817,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.77
+    },
+    {
+      "lat": 23.74365,
+      "lon": 86.42664,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.536,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74395,
+      "lon": 86.42436,
+      "subsidence_mm": -1.79,
+      "tensile_strain_mm_m": 0.128,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.151
+    },
+    {
+      "lat": 23.74395,
+      "lon": 86.42468,
+      "subsidence_mm": -10.04,
+      "tensile_strain_mm_m": 0.068,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.881
+    },
+    {
+      "lat": 23.74395,
+      "lon": 86.42501,
+      "subsidence_mm": -31.62,
+      "tensile_strain_mm_m": 0.677,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.641
+    },
+    {
+      "lat": 23.74395,
+      "lon": 86.42534,
+      "subsidence_mm": -56.13,
+      "tensile_strain_mm_m": 0.993,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.478
+    },
+    {
+      "lat": 23.74395,
+      "lon": 86.42566,
+      "subsidence_mm": -56.13,
+      "tensile_strain_mm_m": 0.326,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.478
+    },
+    {
+      "lat": 23.74395,
+      "lon": 86.42599,
+      "subsidence_mm": -31.62,
+      "tensile_strain_mm_m": 0.578,
+      "hazard_zone": "WARNING_MODERATE_DEFORMATION",
+      "radius_ratio": 0.641
+    },
+    {
+      "lat": 23.74395,
+      "lon": 86.42632,
+      "subsidence_mm": -10.04,
+      "tensile_strain_mm_m": 0.745,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.881
+    },
+    {
+      "lat": 23.74395,
+      "lon": 86.42664,
+      "subsidence_mm": -1.79,
+      "tensile_strain_mm_m": 0.396,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.151
+    },
+    {
+      "lat": 23.74425,
+      "lon": 86.42436,
+      "subsidence_mm": -0.57,
+      "tensile_strain_mm_m": 0.004,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.3
+    },
+    {
+      "lat": 23.74425,
+      "lon": 86.42468,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.155,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74425,
+      "lon": 86.42501,
+      "subsidence_mm": -10.04,
+      "tensile_strain_mm_m": 0.422,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.881
+    },
+    {
+      "lat": 23.74425,
+      "lon": 86.42534,
+      "subsidence_mm": -17.81,
+      "tensile_strain_mm_m": 0.425,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.77
+    },
+    {
+      "lat": 23.74425,
+      "lon": 86.42566,
+      "subsidence_mm": -17.81,
+      "tensile_strain_mm_m": 0.007,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.77
+    },
+    {
+      "lat": 23.74425,
+      "lon": 86.42599,
+      "subsidence_mm": -10.04,
+      "tensile_strain_mm_m": 0.39,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 0.881
+    },
+    {
+      "lat": 23.74425,
+      "lon": 86.42632,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.37,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74425,
+      "lon": 86.42664,
+      "subsidence_mm": -0.57,
+      "tensile_strain_mm_m": 0.17,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.3
+    },
+    {
+      "lat": 23.74455,
+      "lon": 86.42468,
+      "subsidence_mm": -0.57,
+      "tensile_strain_mm_m": 0.068,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.3
+    },
+    {
+      "lat": 23.74455,
+      "lon": 86.42501,
+      "subsidence_mm": -1.79,
+      "tensile_strain_mm_m": 0.137,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.151
+    },
+    {
+      "lat": 23.74455,
+      "lon": 86.42534,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.109,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74455,
+      "lon": 86.42566,
+      "subsidence_mm": -3.19,
+      "tensile_strain_mm_m": 0.034,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.068
+    },
+    {
+      "lat": 23.74455,
+      "lon": 86.42599,
+      "subsidence_mm": -1.79,
+      "tensile_strain_mm_m": 0.131,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.151
+    },
+    {
+      "lat": 23.74455,
+      "lon": 86.42632,
+      "subsidence_mm": -0.57,
+      "tensile_strain_mm_m": 0.106,
+      "hazard_zone": "SAFE_NEGLIGIBLE",
+      "radius_ratio": 1.3
+    }
+  ]
+}

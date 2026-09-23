@@ -1,0 +1,947 @@
+[
+  {
+    "date": "2026-05-08",
+    "raw_insar_cm": 0.0,
+    "raw_imu_drift_cm": -0.01,
+    "fused_ekf_cm": -0.06,
+    "fused_velocity_mm_day": 0.991,
+    "confidence_upper_cm": 0.12,
+    "confidence_lower_cm": -0.24
+  },
+  {
+    "date": "2026-05-09",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.0,
+    "fused_ekf_cm": -0.16,
+    "fused_velocity_mm_day": 0.991,
+    "confidence_upper_cm": 0.09,
+    "confidence_lower_cm": -0.42
+  },
+  {
+    "date": "2026-05-10",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.01,
+    "fused_ekf_cm": -0.26,
+    "fused_velocity_mm_day": 0.991,
+    "confidence_upper_cm": 0.08,
+    "confidence_lower_cm": -0.6
+  },
+  {
+    "date": "2026-05-11",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.02,
+    "fused_ekf_cm": -0.36,
+    "fused_velocity_mm_day": 0.991,
+    "confidence_upper_cm": 0.07,
+    "confidence_lower_cm": -0.8
+  },
+  {
+    "date": "2026-05-12",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.02,
+    "fused_ekf_cm": -0.46,
+    "fused_velocity_mm_day": 0.991,
+    "confidence_upper_cm": 0.08,
+    "confidence_lower_cm": -1.0
+  },
+  {
+    "date": "2026-05-13",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.03,
+    "fused_ekf_cm": -0.56,
+    "fused_velocity_mm_day": 0.991,
+    "confidence_upper_cm": 0.09,
+    "confidence_lower_cm": -1.2
+  },
+  {
+    "date": "2026-05-14",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.06,
+    "fused_ekf_cm": -0.66,
+    "fused_velocity_mm_day": 0.99,
+    "confidence_upper_cm": 0.1,
+    "confidence_lower_cm": -1.42
+  },
+  {
+    "date": "2026-05-15",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.08,
+    "fused_ekf_cm": -0.76,
+    "fused_velocity_mm_day": 0.99,
+    "confidence_upper_cm": 0.13,
+    "confidence_lower_cm": -1.64
+  },
+  {
+    "date": "2026-05-16",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.09,
+    "fused_ekf_cm": -0.86,
+    "fused_velocity_mm_day": 0.99,
+    "confidence_upper_cm": 0.15,
+    "confidence_lower_cm": -1.86
+  },
+  {
+    "date": "2026-05-17",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.11,
+    "fused_ekf_cm": -0.95,
+    "fused_velocity_mm_day": 0.99,
+    "confidence_upper_cm": 0.19,
+    "confidence_lower_cm": -2.1
+  },
+  {
+    "date": "2026-05-18",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.13,
+    "fused_ekf_cm": -1.05,
+    "fused_velocity_mm_day": 0.989,
+    "confidence_upper_cm": 0.23,
+    "confidence_lower_cm": -2.33
+  },
+  {
+    "date": "2026-05-19",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.16,
+    "fused_ekf_cm": -1.15,
+    "fused_velocity_mm_day": 0.988,
+    "confidence_upper_cm": 0.27,
+    "confidence_lower_cm": -2.57
+  },
+  {
+    "date": "2026-05-20",
+    "raw_insar_cm": -1.4,
+    "raw_imu_drift_cm": -0.17,
+    "fused_ekf_cm": -1.39,
+    "fused_velocity_mm_day": 1.123,
+    "confidence_upper_cm": -1.11,
+    "confidence_lower_cm": -1.68
+  },
+  {
+    "date": "2026-05-21",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.18,
+    "fused_ekf_cm": -1.51,
+    "fused_velocity_mm_day": 1.123,
+    "confidence_upper_cm": -1.15,
+    "confidence_lower_cm": -1.86
+  },
+  {
+    "date": "2026-05-22",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.2,
+    "fused_ekf_cm": -1.62,
+    "fused_velocity_mm_day": 1.123,
+    "confidence_upper_cm": -1.18,
+    "confidence_lower_cm": -2.06
+  },
+  {
+    "date": "2026-05-23",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.21,
+    "fused_ekf_cm": -1.73,
+    "fused_velocity_mm_day": 1.122,
+    "confidence_upper_cm": -1.2,
+    "confidence_lower_cm": -2.26
+  },
+  {
+    "date": "2026-05-24",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.24,
+    "fused_ekf_cm": -1.84,
+    "fused_velocity_mm_day": 1.122,
+    "confidence_upper_cm": -1.21,
+    "confidence_lower_cm": -2.48
+  },
+  {
+    "date": "2026-05-25",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.27,
+    "fused_ekf_cm": -1.96,
+    "fused_velocity_mm_day": 1.121,
+    "confidence_upper_cm": -1.2,
+    "confidence_lower_cm": -2.71
+  },
+  {
+    "date": "2026-05-26",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.31,
+    "fused_ekf_cm": -2.07,
+    "fused_velocity_mm_day": 1.121,
+    "confidence_upper_cm": -1.19,
+    "confidence_lower_cm": -2.94
+  },
+  {
+    "date": "2026-05-27",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.33,
+    "fused_ekf_cm": -2.18,
+    "fused_velocity_mm_day": 1.12,
+    "confidence_upper_cm": -1.18,
+    "confidence_lower_cm": -3.18
+  },
+  {
+    "date": "2026-05-28",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.35,
+    "fused_ekf_cm": -2.29,
+    "fused_velocity_mm_day": 1.119,
+    "confidence_upper_cm": -1.15,
+    "confidence_lower_cm": -3.43
+  },
+  {
+    "date": "2026-05-29",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.38,
+    "fused_ekf_cm": -2.4,
+    "fused_velocity_mm_day": 1.118,
+    "confidence_upper_cm": -1.12,
+    "confidence_lower_cm": -3.68
+  },
+  {
+    "date": "2026-05-30",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.41,
+    "fused_ekf_cm": -2.51,
+    "fused_velocity_mm_day": 1.116,
+    "confidence_upper_cm": -1.09,
+    "confidence_lower_cm": -3.93
+  },
+  {
+    "date": "2026-05-31",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.42,
+    "fused_ekf_cm": -2.62,
+    "fused_velocity_mm_day": 1.114,
+    "confidence_upper_cm": -1.05,
+    "confidence_lower_cm": -4.19
+  },
+  {
+    "date": "2026-06-01",
+    "raw_insar_cm": -2.6,
+    "raw_imu_drift_cm": -0.47,
+    "fused_ekf_cm": -2.6,
+    "fused_velocity_mm_day": 1.001,
+    "confidence_upper_cm": -2.32,
+    "confidence_lower_cm": -2.89
+  },
+  {
+    "date": "2026-06-02",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.5,
+    "fused_ekf_cm": -2.7,
+    "fused_velocity_mm_day": 1.001,
+    "confidence_upper_cm": -2.35,
+    "confidence_lower_cm": -3.06
+  },
+  {
+    "date": "2026-06-03",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.52,
+    "fused_ekf_cm": -2.8,
+    "fused_velocity_mm_day": 1.001,
+    "confidence_upper_cm": -2.37,
+    "confidence_lower_cm": -3.24
+  },
+  {
+    "date": "2026-06-04",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.54,
+    "fused_ekf_cm": -2.9,
+    "fused_velocity_mm_day": 1.0,
+    "confidence_upper_cm": -2.37,
+    "confidence_lower_cm": -3.44
+  },
+  {
+    "date": "2026-06-05",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.57,
+    "fused_ekf_cm": -3.0,
+    "fused_velocity_mm_day": 1.0,
+    "confidence_upper_cm": -2.36,
+    "confidence_lower_cm": -3.64
+  },
+  {
+    "date": "2026-06-06",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.6,
+    "fused_ekf_cm": -3.1,
+    "fused_velocity_mm_day": 0.999,
+    "confidence_upper_cm": -2.34,
+    "confidence_lower_cm": -3.86
+  },
+  {
+    "date": "2026-06-07",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.63,
+    "fused_ekf_cm": -3.2,
+    "fused_velocity_mm_day": 0.998,
+    "confidence_upper_cm": -2.32,
+    "confidence_lower_cm": -4.08
+  },
+  {
+    "date": "2026-06-08",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.67,
+    "fused_ekf_cm": -3.3,
+    "fused_velocity_mm_day": 0.996,
+    "confidence_upper_cm": -2.29,
+    "confidence_lower_cm": -4.31
+  },
+  {
+    "date": "2026-06-09",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.69,
+    "fused_ekf_cm": -3.4,
+    "fused_velocity_mm_day": 0.995,
+    "confidence_upper_cm": -2.25,
+    "confidence_lower_cm": -4.54
+  },
+  {
+    "date": "2026-06-10",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.72,
+    "fused_ekf_cm": -3.5,
+    "fused_velocity_mm_day": 0.992,
+    "confidence_upper_cm": -2.21,
+    "confidence_lower_cm": -4.78
+  },
+  {
+    "date": "2026-06-11",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.76,
+    "fused_ekf_cm": -3.59,
+    "fused_velocity_mm_day": 0.99,
+    "confidence_upper_cm": -2.16,
+    "confidence_lower_cm": -5.03
+  },
+  {
+    "date": "2026-06-12",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.78,
+    "fused_ekf_cm": -3.69,
+    "fused_velocity_mm_day": 0.987,
+    "confidence_upper_cm": -2.1,
+    "confidence_lower_cm": -5.27
+  },
+  {
+    "date": "2026-06-13",
+    "raw_insar_cm": -4.1,
+    "raw_imu_drift_cm": -0.81,
+    "fused_ekf_cm": -4.09,
+    "fused_velocity_mm_day": 1.256,
+    "confidence_upper_cm": -3.8,
+    "confidence_lower_cm": -4.38
+  },
+  {
+    "date": "2026-06-14",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.83,
+    "fused_ekf_cm": -4.22,
+    "fused_velocity_mm_day": 1.256,
+    "confidence_upper_cm": -3.86,
+    "confidence_lower_cm": -4.57
+  },
+  {
+    "date": "2026-06-15",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.88,
+    "fused_ekf_cm": -4.34,
+    "fused_velocity_mm_day": 1.255,
+    "confidence_upper_cm": -3.91,
+    "confidence_lower_cm": -4.78
+  },
+  {
+    "date": "2026-06-16",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.93,
+    "fused_ekf_cm": -4.47,
+    "fused_velocity_mm_day": 1.255,
+    "confidence_upper_cm": -3.93,
+    "confidence_lower_cm": -5.0
+  },
+  {
+    "date": "2026-06-17",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -0.97,
+    "fused_ekf_cm": -4.59,
+    "fused_velocity_mm_day": 1.254,
+    "confidence_upper_cm": -3.95,
+    "confidence_lower_cm": -5.23
+  },
+  {
+    "date": "2026-06-18",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.02,
+    "fused_ekf_cm": -4.72,
+    "fused_velocity_mm_day": 1.252,
+    "confidence_upper_cm": -3.96,
+    "confidence_lower_cm": -5.47
+  },
+  {
+    "date": "2026-06-19",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.07,
+    "fused_ekf_cm": -4.84,
+    "fused_velocity_mm_day": 1.251,
+    "confidence_upper_cm": -3.96,
+    "confidence_lower_cm": -5.72
+  },
+  {
+    "date": "2026-06-20",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.11,
+    "fused_ekf_cm": -4.96,
+    "fused_velocity_mm_day": 1.249,
+    "confidence_upper_cm": -3.95,
+    "confidence_lower_cm": -5.98
+  },
+  {
+    "date": "2026-06-21",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.15,
+    "fused_ekf_cm": -5.09,
+    "fused_velocity_mm_day": 1.246,
+    "confidence_upper_cm": -3.94,
+    "confidence_lower_cm": -6.23
+  },
+  {
+    "date": "2026-06-22",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.18,
+    "fused_ekf_cm": -5.21,
+    "fused_velocity_mm_day": 1.244,
+    "confidence_upper_cm": -3.92,
+    "confidence_lower_cm": -6.5
+  },
+  {
+    "date": "2026-06-23",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.23,
+    "fused_ekf_cm": -5.33,
+    "fused_velocity_mm_day": 1.24,
+    "confidence_upper_cm": -3.9,
+    "confidence_lower_cm": -6.76
+  },
+  {
+    "date": "2026-06-24",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.29,
+    "fused_ekf_cm": -5.45,
+    "fused_velocity_mm_day": 1.236,
+    "confidence_upper_cm": -3.86,
+    "confidence_lower_cm": -7.04
+  },
+  {
+    "date": "2026-06-25",
+    "raw_insar_cm": -5.5,
+    "raw_imu_drift_cm": -1.34,
+    "fused_ekf_cm": -5.5,
+    "fused_velocity_mm_day": 1.173,
+    "confidence_upper_cm": -5.22,
+    "confidence_lower_cm": -5.79
+  },
+  {
+    "date": "2026-06-26",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.39,
+    "fused_ekf_cm": -5.62,
+    "fused_velocity_mm_day": 1.173,
+    "confidence_upper_cm": -5.27,
+    "confidence_lower_cm": -5.97
+  },
+  {
+    "date": "2026-06-27",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.44,
+    "fused_ekf_cm": -5.74,
+    "fused_velocity_mm_day": 1.172,
+    "confidence_upper_cm": -5.3,
+    "confidence_lower_cm": -6.17
+  },
+  {
+    "date": "2026-06-28",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.5,
+    "fused_ekf_cm": -5.85,
+    "fused_velocity_mm_day": 1.171,
+    "confidence_upper_cm": -5.32,
+    "confidence_lower_cm": -6.39
+  },
+  {
+    "date": "2026-06-29",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.54,
+    "fused_ekf_cm": -5.97,
+    "fused_velocity_mm_day": 1.17,
+    "confidence_upper_cm": -5.33,
+    "confidence_lower_cm": -6.61
+  },
+  {
+    "date": "2026-06-30",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.6,
+    "fused_ekf_cm": -6.08,
+    "fused_velocity_mm_day": 1.169,
+    "confidence_upper_cm": -5.33,
+    "confidence_lower_cm": -6.84
+  },
+  {
+    "date": "2026-07-01",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.65,
+    "fused_ekf_cm": -6.2,
+    "fused_velocity_mm_day": 1.166,
+    "confidence_upper_cm": -5.32,
+    "confidence_lower_cm": -7.08
+  },
+  {
+    "date": "2026-07-02",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.7,
+    "fused_ekf_cm": -6.31,
+    "fused_velocity_mm_day": 1.164,
+    "confidence_upper_cm": -5.3,
+    "confidence_lower_cm": -7.33
+  },
+  {
+    "date": "2026-07-03",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.73,
+    "fused_ekf_cm": -6.43,
+    "fused_velocity_mm_day": 1.161,
+    "confidence_upper_cm": -5.28,
+    "confidence_lower_cm": -7.58
+  },
+  {
+    "date": "2026-07-04",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.79,
+    "fused_ekf_cm": -6.54,
+    "fused_velocity_mm_day": 1.157,
+    "confidence_upper_cm": -5.25,
+    "confidence_lower_cm": -7.83
+  },
+  {
+    "date": "2026-07-05",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.85,
+    "fused_ekf_cm": -6.65,
+    "fused_velocity_mm_day": 1.153,
+    "confidence_upper_cm": -5.22,
+    "confidence_lower_cm": -8.09
+  },
+  {
+    "date": "2026-07-06",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -1.91,
+    "fused_ekf_cm": -6.76,
+    "fused_velocity_mm_day": 1.148,
+    "confidence_upper_cm": -5.18,
+    "confidence_lower_cm": -8.35
+  },
+  {
+    "date": "2026-07-07",
+    "raw_insar_cm": -6.8,
+    "raw_imu_drift_cm": -1.97,
+    "fused_ekf_cm": -6.8,
+    "fused_velocity_mm_day": 1.081,
+    "confidence_upper_cm": -6.52,
+    "confidence_lower_cm": -7.09
+  },
+  {
+    "date": "2026-07-08",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.05,
+    "fused_ekf_cm": -6.91,
+    "fused_velocity_mm_day": 1.081,
+    "confidence_upper_cm": -6.56,
+    "confidence_lower_cm": -7.26
+  },
+  {
+    "date": "2026-07-09",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.09,
+    "fused_ekf_cm": -7.02,
+    "fused_velocity_mm_day": 1.08,
+    "confidence_upper_cm": -6.58,
+    "confidence_lower_cm": -7.45
+  },
+  {
+    "date": "2026-07-10",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.15,
+    "fused_ekf_cm": -7.12,
+    "fused_velocity_mm_day": 1.079,
+    "confidence_upper_cm": -6.59,
+    "confidence_lower_cm": -7.66
+  },
+  {
+    "date": "2026-07-11",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.22,
+    "fused_ekf_cm": -7.23,
+    "fused_velocity_mm_day": 1.078,
+    "confidence_upper_cm": -6.59,
+    "confidence_lower_cm": -7.87
+  },
+  {
+    "date": "2026-07-12",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.28,
+    "fused_ekf_cm": -7.34,
+    "fused_velocity_mm_day": 1.076,
+    "confidence_upper_cm": -6.58,
+    "confidence_lower_cm": -8.1
+  },
+  {
+    "date": "2026-07-13",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.34,
+    "fused_ekf_cm": -7.44,
+    "fused_velocity_mm_day": 1.073,
+    "confidence_upper_cm": -6.56,
+    "confidence_lower_cm": -8.33
+  },
+  {
+    "date": "2026-07-14",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.38,
+    "fused_ekf_cm": -7.55,
+    "fused_velocity_mm_day": 1.07,
+    "confidence_upper_cm": -6.54,
+    "confidence_lower_cm": -8.56
+  },
+  {
+    "date": "2026-07-15",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.45,
+    "fused_ekf_cm": -7.65,
+    "fused_velocity_mm_day": 1.067,
+    "confidence_upper_cm": -6.51,
+    "confidence_lower_cm": -8.8
+  },
+  {
+    "date": "2026-07-16",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.53,
+    "fused_ekf_cm": -7.75,
+    "fused_velocity_mm_day": 1.062,
+    "confidence_upper_cm": -6.47,
+    "confidence_lower_cm": -9.04
+  },
+  {
+    "date": "2026-07-17",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.59,
+    "fused_ekf_cm": -7.86,
+    "fused_velocity_mm_day": 1.057,
+    "confidence_upper_cm": -6.42,
+    "confidence_lower_cm": -9.29
+  },
+  {
+    "date": "2026-07-18",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.65,
+    "fused_ekf_cm": -7.96,
+    "fused_velocity_mm_day": 1.051,
+    "confidence_upper_cm": -6.37,
+    "confidence_lower_cm": -9.54
+  },
+  {
+    "date": "2026-07-19",
+    "raw_insar_cm": -8.0,
+    "raw_imu_drift_cm": -2.71,
+    "fused_ekf_cm": -8.0,
+    "fused_velocity_mm_day": 0.999,
+    "confidence_upper_cm": -7.71,
+    "confidence_lower_cm": -8.29
+  },
+  {
+    "date": "2026-07-20",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.79,
+    "fused_ekf_cm": -8.1,
+    "fused_velocity_mm_day": 0.998,
+    "confidence_upper_cm": -7.75,
+    "confidence_lower_cm": -8.45
+  },
+  {
+    "date": "2026-07-21",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.86,
+    "fused_ekf_cm": -8.2,
+    "fused_velocity_mm_day": 0.997,
+    "confidence_upper_cm": -7.76,
+    "confidence_lower_cm": -8.64
+  },
+  {
+    "date": "2026-07-22",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -2.93,
+    "fused_ekf_cm": -8.3,
+    "fused_velocity_mm_day": 0.996,
+    "confidence_upper_cm": -7.76,
+    "confidence_lower_cm": -8.83
+  },
+  {
+    "date": "2026-07-23",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.0,
+    "fused_ekf_cm": -8.4,
+    "fused_velocity_mm_day": 0.994,
+    "confidence_upper_cm": -7.76,
+    "confidence_lower_cm": -9.04
+  },
+  {
+    "date": "2026-07-24",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.08,
+    "fused_ekf_cm": -8.5,
+    "fused_velocity_mm_day": 0.992,
+    "confidence_upper_cm": -7.74,
+    "confidence_lower_cm": -9.25
+  },
+  {
+    "date": "2026-07-25",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.15,
+    "fused_ekf_cm": -8.59,
+    "fused_velocity_mm_day": 0.989,
+    "confidence_upper_cm": -7.71,
+    "confidence_lower_cm": -9.47
+  },
+  {
+    "date": "2026-07-26",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.22,
+    "fused_ekf_cm": -8.69,
+    "fused_velocity_mm_day": 0.985,
+    "confidence_upper_cm": -7.68,
+    "confidence_lower_cm": -9.7
+  },
+  {
+    "date": "2026-07-27",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.28,
+    "fused_ekf_cm": -8.78,
+    "fused_velocity_mm_day": 0.981,
+    "confidence_upper_cm": -7.64,
+    "confidence_lower_cm": -9.93
+  },
+  {
+    "date": "2026-07-28",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.37,
+    "fused_ekf_cm": -8.88,
+    "fused_velocity_mm_day": 0.976,
+    "confidence_upper_cm": -7.59,
+    "confidence_lower_cm": -10.16
+  },
+  {
+    "date": "2026-07-29",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.44,
+    "fused_ekf_cm": -8.97,
+    "fused_velocity_mm_day": 0.969,
+    "confidence_upper_cm": -7.53,
+    "confidence_lower_cm": -10.4
+  },
+  {
+    "date": "2026-07-30",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.51,
+    "fused_ekf_cm": -9.06,
+    "fused_velocity_mm_day": 0.962,
+    "confidence_upper_cm": -7.47,
+    "confidence_lower_cm": -10.64
+  },
+  {
+    "date": "2026-07-31",
+    "raw_insar_cm": -9.3,
+    "raw_imu_drift_cm": -3.59,
+    "fused_ekf_cm": -9.3,
+    "fused_velocity_mm_day": 1.088,
+    "confidence_upper_cm": -9.01,
+    "confidence_lower_cm": -9.58
+  },
+  {
+    "date": "2026-08-01",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.68,
+    "fused_ekf_cm": -9.4,
+    "fused_velocity_mm_day": 1.088,
+    "confidence_upper_cm": -9.05,
+    "confidence_lower_cm": -9.76
+  },
+  {
+    "date": "2026-08-02",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.75,
+    "fused_ekf_cm": -9.51,
+    "fused_velocity_mm_day": 1.087,
+    "confidence_upper_cm": -9.08,
+    "confidence_lower_cm": -9.95
+  },
+  {
+    "date": "2026-08-03",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.83,
+    "fused_ekf_cm": -9.62,
+    "fused_velocity_mm_day": 1.085,
+    "confidence_upper_cm": -9.09,
+    "confidence_lower_cm": -10.15
+  },
+  {
+    "date": "2026-08-04",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.9,
+    "fused_ekf_cm": -9.73,
+    "fused_velocity_mm_day": 1.083,
+    "confidence_upper_cm": -9.09,
+    "confidence_lower_cm": -10.37
+  },
+  {
+    "date": "2026-08-05",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -3.96,
+    "fused_ekf_cm": -9.83,
+    "fused_velocity_mm_day": 1.081,
+    "confidence_upper_cm": -9.08,
+    "confidence_lower_cm": -10.59
+  },
+  {
+    "date": "2026-08-06",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.05,
+    "fused_ekf_cm": -9.94,
+    "fused_velocity_mm_day": 1.077,
+    "confidence_upper_cm": -9.06,
+    "confidence_lower_cm": -10.82
+  },
+  {
+    "date": "2026-08-07",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.13,
+    "fused_ekf_cm": -10.04,
+    "fused_velocity_mm_day": 1.073,
+    "confidence_upper_cm": -9.03,
+    "confidence_lower_cm": -11.05
+  },
+  {
+    "date": "2026-08-08",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.21,
+    "fused_ekf_cm": -10.15,
+    "fused_velocity_mm_day": 1.068,
+    "confidence_upper_cm": -9.0,
+    "confidence_lower_cm": -11.29
+  },
+  {
+    "date": "2026-08-09",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.3,
+    "fused_ekf_cm": -10.25,
+    "fused_velocity_mm_day": 1.062,
+    "confidence_upper_cm": -8.96,
+    "confidence_lower_cm": -11.54
+  },
+  {
+    "date": "2026-08-10",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.4,
+    "fused_ekf_cm": -10.35,
+    "fused_velocity_mm_day": 1.055,
+    "confidence_upper_cm": -8.91,
+    "confidence_lower_cm": -11.78
+  },
+  {
+    "date": "2026-08-11",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.48,
+    "fused_ekf_cm": -10.44,
+    "fused_velocity_mm_day": 1.047,
+    "confidence_upper_cm": -8.86,
+    "confidence_lower_cm": -12.03
+  },
+  {
+    "date": "2026-08-12",
+    "raw_insar_cm": -10.2,
+    "raw_imu_drift_cm": -4.58,
+    "fused_ekf_cm": -10.21,
+    "fused_velocity_mm_day": 0.747,
+    "confidence_upper_cm": -9.92,
+    "confidence_lower_cm": -10.5
+  },
+  {
+    "date": "2026-08-13",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.66,
+    "fused_ekf_cm": -10.28,
+    "fused_velocity_mm_day": 0.747,
+    "confidence_upper_cm": -9.93,
+    "confidence_lower_cm": -10.64
+  },
+  {
+    "date": "2026-08-14",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.75,
+    "fused_ekf_cm": -10.36,
+    "fused_velocity_mm_day": 0.745,
+    "confidence_upper_cm": -9.92,
+    "confidence_lower_cm": -10.79
+  },
+  {
+    "date": "2026-08-15",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.86,
+    "fused_ekf_cm": -10.43,
+    "fused_velocity_mm_day": 0.744,
+    "confidence_upper_cm": -9.9,
+    "confidence_lower_cm": -10.97
+  },
+  {
+    "date": "2026-08-16",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -4.94,
+    "fused_ekf_cm": -10.5,
+    "fused_velocity_mm_day": 0.741,
+    "confidence_upper_cm": -9.86,
+    "confidence_lower_cm": -11.15
+  },
+  {
+    "date": "2026-08-17",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -5.03,
+    "fused_ekf_cm": -10.58,
+    "fused_velocity_mm_day": 0.738,
+    "confidence_upper_cm": -9.82,
+    "confidence_lower_cm": -11.33
+  },
+  {
+    "date": "2026-08-18",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -5.13,
+    "fused_ekf_cm": -10.65,
+    "fused_velocity_mm_day": 0.735,
+    "confidence_upper_cm": -9.77,
+    "confidence_lower_cm": -11.53
+  },
+  {
+    "date": "2026-08-19",
+    "raw_insar_cm": null,
+    "raw_imu_drift_cm": -5.22,
+    "fused_ekf_cm": -10.72,
+    "fused_velocity_mm_day": 0.73,
+    "confidence_upper_cm": -9.71,
+    "confidence_lower_cm": -11.73
+  },
+  {
+    "date": "2026-08-20",
+    "raw_insar_cm": -10.8,
+    "raw_imu_drift_cm": -5.29,
+    "fused_ekf_cm": -10.8,
+    "fused_velocity_mm_day": 0.741,
+    "confidence_upper_cm": -10.52,
+    "confidence_lower_cm": -11.08
+  }
+]
