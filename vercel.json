@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://strata-core-api-8jqg.onrender.com/api/:match*"
+    }
+  ]
+}
