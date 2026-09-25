@@ -21,15 +21,19 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Build paths absolute relative to the current file location
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PROCESSED_DIR = os.path.join(BASE_DIR, "data", "processed")
+
 # File Paths
-TELEMETRY_LOG = "data/processed/live_mesh_telemetry.json"
-ALERT_STATE_FILE = "data/processed/latest_alert_state.json"
-INSAR_HIST_CSV = "data/processed/real_insar_timeseries.csv"
-PROPHET_FORECAST_CSV = "data/processed/real_prophet_forecast.csv"
-KNOTHE_BOWL_JSON_1 = "data/processed/knothe_budryk_subsidence_grid_2d.json"
-KNOTHE_BOWL_JSON_2 = "data/processed/knothe_subsidence_bowl.json"
-FUSED_TRAJECTORY_JSON = "data/processed/sensor_fusion_fused_trajectory.json"
-SPATIAL_ASSETS_JSON = "data/processed/spatial_asset_risk_zonation.json"
+TELEMETRY_LOG = os.path.join(PROCESSED_DIR, "live_mesh_telemetry.json")
+ALERT_STATE_FILE = os.path.join(PROCESSED_DIR, "latest_alert_state.json")
+INSAR_HIST_CSV = os.path.join(PROCESSED_DIR, "real_insar_timeseries.csv")
+PROPHET_FORECAST_CSV = os.path.join(PROCESSED_DIR, "real_prophet_forecast.csv")
+KNOTHE_BOWL_JSON_1 = os.path.join(PROCESSED_DIR, "knothe_budryk_subsidence_grid_2d.json")
+KNOTHE_BOWL_JSON_2 = os.path.join(PROCESSED_DIR, "knothe_subsidence_bowl.json")
+FUSED_TRAJECTORY_JSON = os.path.join(PROCESSED_DIR, "sensor_fusion_fused_trajectory.json")
+SPATIAL_ASSETS_JSON = os.path.join(PROCESSED_DIR, "spatial_asset_risk_zonation.json")
 
 class NodeTelemetry(BaseModel):
     node_id: str

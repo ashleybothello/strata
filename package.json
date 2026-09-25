@@ -8,9 +8,9 @@
     "dev:all": "concurrently -n \"CLIENT,SERVER,HARDWARE,ML\" -c \"cyan,magenta,green,yellow\" --kill-others-on-fail \"npm run dev:client\" \"npm run dev:server\" \"npm run dev:hardware\" \"npm run dev:ml\"",
     "dev:client": "vite --open",
     "dev:server": "node server/index.js",
-    "dev:ml": "cd dashboard && .\\venv\\Scripts\\uvicorn src.server:app --reload --host 127.0.0.1 --port 8000",
+    "dev:ml": "cd dashboard && .\\venv\\Scripts\\uvicorn src.server:app --reload --host 0.0.0.0 --port 8000",
     "dev:dashboard": "cd dashboard/dashboard && python -m http.server 8080",
-    "dev:hardware": "cd mine-moniter && ..\\dashboard\\venv\\Scripts\\uvicorn main:app --reload --host 127.0.0.1 --port 8001",
+    "dev:hardware": "cd mine-moniter && ..\\dashboard\\venv\\Scripts\\uvicorn main:app --reload --host 0.0.0.0 --port 8001",
     "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview"
